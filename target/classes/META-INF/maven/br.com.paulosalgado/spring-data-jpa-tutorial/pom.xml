@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>br.com.paulosalgado</groupId>
-	<artifactId>springdatajpaexemplo</artifactId>
+	<artifactId>spring-data-jpa-tutorial</artifactId>
 	
 	<version>0.0.1-SNAPSHOT</version>
 	
